@@ -1,6 +1,6 @@
-"В этой строке я ввожу message"
-def text():
-    
-    "В этой функции я ввожу message"
-    return "message"
+"""в этой строке я задаю функцию которая выводит message"""
 
+
+def text():
+    """в этой строке я вывожу message"""
+    return "message"
